@@ -1,9 +1,23 @@
 body {
-    background-color: aqua;
+    background-color: rgb(211, 238, 238);
+    font-family: roboto;
   }
-  #small {
-    color: red;
+  h1 {
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: solid;
+    text-transform: uppercase;
+    
   }
-  div {
-    color: blue ;
+  figure {
+    display: inline-flex;
   }
+  #hotel {
+    color: purple;
+    text-decoration: solid;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  /* things to study deeply 
+  border, margin, padding, height, width */
